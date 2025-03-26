@@ -10,9 +10,5 @@
   {
     "name": "NAT",
     "time_frames": 3630
-  },
-  {
-    "name": "AAA",
-    "time_frames": 1424
   }
 ]
