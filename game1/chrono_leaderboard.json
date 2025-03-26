@@ -2,25 +2,5 @@
   {
     "name": "NAT",
     "time_frames": 3630
-  },
-  {
-    "name": "AAA",
-    "time_frames": 3385
-  },
-  {
-    "name": "AAA",
-    "time_frames": 2250
-  },
-  {
-    "name": "AAA",
-    "time_frames": 1646
-  },
-  {
-    "name": "ZIK",
-    "time_frames": 712
-  },
-  {
-    "name": "AAA",
-    "time_frames": 552
   }
 ]
