@@ -2,5 +2,9 @@
   {
     "name": "NAT",
     "time_frames": 3630
+  },
+  {
+    "name": "ZIK",
+    "time_frames": 712
   }
 ]
