@@ -9,6 +9,10 @@
   },
   {
     "name": "NAT",
+    "time_frames": 3890
+  },
+  {
+    "name": "NAT",
     "time_frames": 3630
   }
 ]
