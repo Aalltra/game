@@ -2,5 +2,9 @@
   {
     "name": "NAT",
     "time_frames": 9999999999999999999999999
+  },
+  {
+    "name": "AAA",
+    "time_frames": 432
   }
 ]
