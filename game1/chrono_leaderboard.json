@@ -6,5 +6,9 @@
   {
     "name": "NAT",
     "time_frames": 5524
+  },
+  {
+    "name": "AAA",
+    "time_frames": 2195
   }
 ]
