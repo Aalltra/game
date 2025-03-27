@@ -16,5 +16,23 @@
     "use_impulse": false,
     "destroy_mimic": false,
     "enter_zone": true
+  },
+  "AAA": {
+    "phase2": true,
+    "phase3": false,
+    "phase4": false,
+    "phase5": false,
+    "phase6": false,
+    "time_1min": false,
+    "time_2min": false,
+    "time_3min": false,
+    "collect_50": false,
+    "collect_100": false,
+    "near_miss_5": false,
+    "near_miss_10": false,
+    "survive_curse": true,
+    "use_impulse": false,
+    "destroy_mimic": false,
+    "enter_zone": false
   }
 }
