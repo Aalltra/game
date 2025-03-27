@@ -1,6 +1,10 @@
 [
   {
     "name": "NAT",
+    "time_frames": 6999
+  },
+  {
+    "name": "NAT",
     "time_frames": 5524
   }
 ]
