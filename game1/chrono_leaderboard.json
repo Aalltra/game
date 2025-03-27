@@ -18,5 +18,9 @@
   {
     "name": "NAT",
     "time_frames": 3630
+  },
+  {
+    "name": "NAT",
+    "time_frames": 2762
   }
 ]
