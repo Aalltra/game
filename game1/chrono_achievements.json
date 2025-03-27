@@ -33,6 +33,6 @@
     "survive_curse": true,
     "use_impulse": false,
     "destroy_mimic": false,
-    "enter_zone": false
+    "enter_zone": true
   }
 }
