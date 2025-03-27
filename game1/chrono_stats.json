@@ -10,5 +10,15 @@
       "Seeker": 2,
       "Bouncer": 1
     }
+  },
+  "AAA": {
+    "total_time_played": 40.61666666666667,
+    "games_played": 2,
+    "total_fragments": 7,
+    "max_near_miss_combo": 2,
+    "max_phase": 2,
+    "deaths_by_type": {
+      "Drifter": 2
+    }
   }
 }
