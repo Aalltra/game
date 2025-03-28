@@ -12,12 +12,13 @@
     }
   },
   "AAA": {
-    "total_time_played": 79.85,
-    "games_played": 1,
-    "total_fragments": 27,
-    "max_near_miss_combo": 3,
+    "total_time_played": 82.8,
+    "games_played": 2,
+    "total_fragments": 15,
+    "max_near_miss_combo": 1,
     "max_phase": 3,
     "deaths_by_type": {
+      "Drifter": 1,
       "Seeker": 1
     }
   },
