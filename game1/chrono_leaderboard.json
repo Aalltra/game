@@ -13,6 +13,10 @@
   },
   {
     "name": "AAA",
+    "time_frames": 3555
+  },
+  {
+    "name": "AAA",
     "time_frames": 2195
   },
   {
@@ -34,9 +38,5 @@
   {
     "name": "AAA",
     "time_frames": 1410
-  },
-  {
-    "name": "AAA",
-    "time_frames": 1090
   }
 ]
