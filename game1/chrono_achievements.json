@@ -23,7 +23,7 @@
     "phase4": false,
     "phase5": false,
     "phase6": false,
-    "time_1min": true,
+    "time_1min": false,
     "time_2min": false,
     "time_3min": false,
     "collect_50": false,
@@ -33,7 +33,7 @@
     "survive_curse": true,
     "use_impulse": false,
     "destroy_mimic": false,
-    "enter_zone": false
+    "enter_zone": true
   },
   "HHH": {
     "phase2": true,
