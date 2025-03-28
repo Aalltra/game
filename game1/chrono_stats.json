@@ -1,14 +1,16 @@
 {
   "NAT": {
-    "total_time_played": 497.4333333333333,
-    "games_played": 12,
-    "total_fragments": 217,
-    "max_near_miss_combo": 5,
+    "total_time_played": 4534.283333333333,
+    "games_played": 96,
+    "total_fragments": 1590,
+    "max_near_miss_combo": 7,
     "max_phase": 4,
     "deaths_by_type": {
-      "Drifter": 9,
-      "Seeker": 2,
-      "Bouncer": 1
+      "Drifter": 56,
+      "Seeker": 6,
+      "Bouncer": 30,
+      "Mimic": 2,
+      "PulsarShockwave": 2
     }
   },
   "AAA": {
