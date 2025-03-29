@@ -1,14 +1,14 @@
 {
   "NAT": {
-    "total_time_played": 4534.283333333333,
-    "games_played": 96,
-    "total_fragments": 1590,
+    "total_time_played": 5288.25,
+    "games_played": 106,
+    "total_fragments": 1682,
     "max_near_miss_combo": 7,
     "max_phase": 4,
     "deaths_by_type": {
-      "Drifter": 56,
+      "Drifter": 61,
       "Seeker": 6,
-      "Bouncer": 30,
+      "Bouncer": 35,
       "Mimic": 2,
       "PulsarShockwave": 2
     }
