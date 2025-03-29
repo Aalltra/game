@@ -1,6 +1,10 @@
 [
   {
     "name": "NAT",
+    "time_frames": 8617
+  },
+  {
+    "name": "NAT",
     "time_frames": 7057
   },
   {
@@ -34,9 +38,5 @@
   {
     "name": "AAA",
     "time_frames": 1453
-  },
-  {
-    "name": "AAA",
-    "time_frames": 1423
   }
 ]
