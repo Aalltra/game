@@ -6,7 +6,7 @@
     "phase5": false,
     "phase6": false,
     "time_1min": true,
-    "time_2min": false,
+    "time_2min": true,
     "time_3min": false,
     "collect_50": true,
     "collect_100": false,
